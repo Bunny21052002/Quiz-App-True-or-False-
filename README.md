@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+This is a Basic quiz app made for logical understanding and passing data from one screen to another.
+the UI of the app is in UI folder.
+
+Packages used Google font, Cupertino Icons and media query is used to make this more efficient.
